@@ -1,0 +1,13 @@
+{
+  "started_at": "2026-10-08T01:32:06",
+  "mode": "online",
+  "source": "https://jyj.wuhan.gov.cn/zwdt/tsgg/",
+  "requested_pages": 3,
+  "completed_pages": [
+    1,
+    2,
+    3
+  ],
+  "record_count": 30,
+  "status": "scope_complete"
+}
