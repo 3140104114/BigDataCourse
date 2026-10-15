@@ -1,0 +1,12 @@
+{
+  "page_url": "https://ocw.mit.edu/search/?q=python",
+  "request_url": "https://open.mit.edu/api/v0/search/",
+  "method": "POST",
+  "collected_at": "2026-10-16T00:20:02+08:00",
+  "status": "batch_saved",
+  "scope": "one search batch",
+  "http_status": 200,
+  "content_type": "application/json",
+  "total_matches": 173,
+  "returned_count": 10
+}
